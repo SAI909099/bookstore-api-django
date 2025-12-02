@@ -85,7 +85,7 @@ POST /api/token/refresh/
 Usage:
 
 Authorization: Bearer <access_token>
-
+'''bash'''
 👨‍💻 Author
 Abdulazizxon Sulaymonov
 Python Backend Developer
